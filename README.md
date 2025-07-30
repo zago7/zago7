@@ -1,26 +1,49 @@
-<h1 align="center">Hi 👋, I'm Guilherme Zago</h1>
-<h3 align="center">A passionate full-stack developer from Brazil</h3>
+<h1 align="center">Olá 👋, eu sou o Guilherme Zago</h1>
+<h3 align="center">Desenvolvedor júnior apaixonado por tecnologia</h3>
 
-- 🔭 I’m currently working on **ZagoAirCompany**
-- 🌱 I’m currently learning **Clean Architecture and Design Patterns**
-- 👯 I’m looking to collaborate on **.NET and Angular projects**
-- 💬 Ask me about **C#, EF Core, Angular**
-- 📫 How to reach me: **guilherme@example.com**
+🎯 Desenvolvedor júnior com experiência prática em C#, .NET, ASP.NET e Angular, atuando no desenvolvimento de aplicações web e SaaS completas.
+
+📚 Conhecimento sólido em bancos de dados relacionais como SQL Server, MySQL e PostgreSQL.
+
+🛠️ Utilizo Git para versionamento de código, Entity Framework como ORM e tenho familiaridade com NUnit para testes e RabbitMQ para mensageria.
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Tecnologias e Ferramentas
 
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
-![.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net)
+#### 💻 Backend
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=dotnet)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-6DB33F?style=flat&logo=dotnet)
+
+#### 🌐 Frontend
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![EF Core](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat&logo=dotnet)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+#### 🧪 Testes
+![NUnit](https://img.shields.io/badge/-NUnit-404040?style=flat&logo=.net)
+
+#### 🛢️ Banco de Dados
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+
+#### 📦 Mensageria
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq)
+
+#### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab)
 
 ---
 
-### 📊 GitHub Stats
+### ✉️ Contato
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermezago&show_icons=true&theme=radical)
+📧 Email: guilherme@example.com  
+🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermezago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
