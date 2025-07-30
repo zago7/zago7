@@ -44,6 +44,6 @@
 
 ### ✉️ Contato
 
-📧 Email: guilherme@example.com  
-🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+📧 Email: guilhermebzago10@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/guilherme-zago07/
 
