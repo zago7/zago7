@@ -26,6 +26,7 @@
 
 #### 🧪 Testes
 ![NUnit](https://img.shields.io/badge/-NUnit-404040?style=flat&logo=.net)
+![xUnit](https://img.shields.io/badge/-xUnit-404040?style=flat&logo=.net)
 
 #### 🛢️ Banco de Dados
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver)
