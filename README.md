@@ -5,7 +5,7 @@
 
 📚 Conhecimento sólido em bancos de dados relacionais como SQL Server, MySQL e PostgreSQL.
 
-🛠️ Utilizo Git para versionamento de código, Entity Framework como ORM e tenho familiaridade com NUnit para testes e RabbitMQ para mensageria.
+🛠️ Utilizo Git para versionamento de código, Entity Framework como ORM e tenho familiaridade com NUnit e XUnit para testes e RabbitMQ para mensageria.
 
 ---
 
@@ -26,7 +26,7 @@
 
 #### 🧪 Testes
 ![NUnit](https://img.shields.io/badge/-NUnit-404040?style=flat&logo=.net)
-![xUnit](https://img.shields.io/badge/-xUnit-404040?style=flat&logo=.net)
+![XUnit](https://img.shields.io/badge/-xUnit-404040?style=flat&logo=.net)
 
 #### 🛢️ Banco de Dados
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver)
